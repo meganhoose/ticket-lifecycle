@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 
-<h2>Installation Steps</h2>
+<h2>Lifecycle Stages</h2>
 
 1. Intake
 
